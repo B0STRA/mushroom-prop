@@ -4,6 +4,8 @@ A FiveM emissive mushroom prop for scripts, animations, and maps.
 
 ![image](https://user-images.githubusercontent.com/119994243/219803078-1bcab539-5f14-4b15-9d52-e09c5a737a2d.png)
 
+[Preview](https://streamable.com/i1uohx_
+
 Streamed prop for GTA FiveM - includes inventory image.
 
 > Original Model by : [rabbiturnal](https://sketchfab.com/rabbiturnal) used under [CC 4.0 License](https://creativecommons.org/licenses/by/4.0/), changes include collision mesh addition embedded textures, scaling, and slight mesh adjustments. 
