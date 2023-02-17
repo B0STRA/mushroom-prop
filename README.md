@@ -12,7 +12,7 @@ Streamed prop for GTA FiveM - includes inventory image.
 
 Emote demonstrated with rpemotes by [TayMcKenzieNZ](https://github.com/TayMcKenzieNZ/rpemotes) 
 Emote adapting the prop to add to AnimationListCustom.lua (I'm sure there's a better animation this just works for me):
->    ["mushroom"] = { --- Prop by Bostra
+```    ["mushroom"] = { --- Prop by Bostra
         "mp_player_inteat@burger",
         "mp_player_int_eat_burger",
         "Mushroom",
