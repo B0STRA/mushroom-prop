@@ -32,3 +32,5 @@ Emote adapting the prop to add to AnimationListCustom.lua (I'm sure there's a be
         }
     },
 
+# Support:
+![Support at md-scripts Discord](https://discord.gg/RVx8nVwcEG)
